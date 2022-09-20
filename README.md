@@ -3,10 +3,10 @@
 #1.isomorphism
 #2.sum squares
 #3.palindrome
-happy number
-maximum area
-vowels in astring
-leap year
+4 happy number
+5 maximum area
+6 vowels in astring
+7 leap 
 
 day 2
 climb stairs
