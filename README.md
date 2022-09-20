@@ -8,7 +8,9 @@
 6 vowels in astring
 7 leap 
 8  valid number
+9 loves of bread program
 
 day 2
 climb stairs
-modified string
+modified string 
+merge two lists
