@@ -7,6 +7,7 @@
 5 maximum area
 6 vowels in astring
 7 leap 
+8  valid number
 
 day 2
 climb stairs
