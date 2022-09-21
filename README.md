@@ -18,4 +18,4 @@ day 2
 5 calculator
 6 remove common words
 7 pranthasies
-8 
+8 four seasons
