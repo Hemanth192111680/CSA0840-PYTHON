@@ -11,6 +11,6 @@
 9 loves of bread program
 
 day 2
-climb stairs
-modified string 
-merge two lists
+1 climb stairs
+2 modified string 
+3 merge two lists
