@@ -14,3 +14,8 @@ day 2
 1 climb stairs
 2 modified string 
 3 merge two lists
+4 maximum number of words
+5 calculator
+6 remove common words
+7 pranthasies
+8 
