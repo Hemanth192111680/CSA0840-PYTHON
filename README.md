@@ -23,3 +23,12 @@ day 2
 
 day 3
 1 trading
+2 project manager
+3 array of int
+4 add binary
+5 max number of steps
+6 raju program
+7 permutations
+8 anagrams
+9 pattern
+10 word
