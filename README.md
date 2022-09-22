@@ -20,5 +20,6 @@ day 2
 7 pranthasies
 8 four seasons
 9 key words
+
 day 3
 1 trading
