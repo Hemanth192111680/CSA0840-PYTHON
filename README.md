@@ -31,4 +31,15 @@ day 3
 7 permutations
 8 anagrams
 9 pattern
-10 word
+10 word 
+
+day 4
+1 fizz buzz
+2 student college
+3 smaller numbers
+4 valid palindrome
+5 minimum number of jumps
+6 delchar
+7 sorted vowels
+8 roman to integer
+
