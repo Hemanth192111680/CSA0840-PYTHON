@@ -33,6 +33,7 @@ day 3
 9 pattern
 10 word 
 
+
 day 4
 1 fizz buzz
 2 student college
@@ -41,5 +42,18 @@ day 4
 5 minimum number of jumps
 6 delchar
 7 sorted vowels
-8 roman to integer
+8 roman to integer 
+
+
+day 5 
+1 string
+2 employess
+3 peak
+4 matrix
+5 reverse string
+6 function shuffle
+7 longest sub string
+8 tri array
+9 little robert
+10 perfect square
 
